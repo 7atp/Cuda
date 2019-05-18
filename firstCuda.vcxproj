@@ -79,7 +79,7 @@
     </CudaCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CudaCompile Include="vectorAdd.cu" />
+    <CudaCompile Include="LAB6.cu" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
